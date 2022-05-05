@@ -1,16 +1,13 @@
-### 👋 Welcome, I was an Educamas student, i was learning web development for 6 months in the ¨Programate¨ bootcamp of Educamas School. There, i made the personal brand design, practice english, i learned about scrum methodology, mochup´s and prototypes, and carried out frontend and backend projects. Look at some:
+### 👋 Welcome, I was an Educamas student, i was learning web development for 6 months in the ¨Programate¨ bootcamp of Educamas School. There, i made the personal brand design, practice english, i learned about scrum methodology, mockup´s and prototypes, and carried out frontend and backend projects. Look at some:
 
-## Personal Brand/Marca Personal
+## Personal Brand
 <p align=center>
 <img src= "https://user-images.githubusercontent.com/97111500/166964171-42591150-f22a-4356-947f-849c22dcccea.png" width="500px" heigth="500px">
 </p>
-
 ## Mockup and prototypes
 <p align=center>
 <img src= "https://user-images.githubusercontent.com/97111500/166979360-4d9796a5-cb10-4bd3-bca0-d56cabd52071.png" width="500px" heigth="500px">
 </p>
-
-
 ## Backlog
 <p align=center>
 <img src="https://user-images.githubusercontent.com/97111500/166969710-faabf8bf-93d6-4e83-abd9-9578db9591e1.png" width="600px" heigth="400px">
@@ -36,7 +33,6 @@
 </p>
 
 ## Mern Stack
-
 <p align=center>
 <img src="https://user-images.githubusercontent.com/97111500/166967339-c5af9377-ad60-47d2-bcb3-9258dd99cd64.png"> 
 </p>
